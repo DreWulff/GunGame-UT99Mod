@@ -1,0 +1,4 @@
+[Public]
+
+Object=(Name=GunGame.GunGame,Class=Class,MetaClass=Botpack.TournamentGameInfo)
+Preferences=(Caption="GunGame",Parent="Game Types",Class=GunGame.GunGame,Immediate=True)
