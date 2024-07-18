@@ -3,6 +3,8 @@
 An UT99 mod that adds a custom game mode based on other game's implementation of the mode.  
 It is written in UnrealScript (.uc). It is completely playable, but still requires polishing the code.
 
+![Menu](https://images.gamebanana.com/img/ss/mods/6698847f872fc.jpg)
+
 ## Setup
 To install the mod make sure to save the files located in the `System` folder in the folder of the same name in your installation of Unreal Tournament.
 
