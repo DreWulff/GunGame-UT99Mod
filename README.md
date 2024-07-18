@@ -1,11 +1,11 @@
-# Gun Game v1.0 - Unreal Tournament 99 Game Mode Mod
+# Gun Game v1.0 - Unreal Tournament 99 Game Mode
 ## Description
-An UT99 mod that adds a custom game mode based on other game's implementation of the mode.  
+A UT99 mod that adds a custom game mode based on other game's implementation of the mode.  
 It is written in UnrealScript (.uc). It is completely playable, but still requires polishing the code.
 
 ![Menu](https://images.gamebanana.com/img/ss/mods/6698847f872fc.jpg)
 
-## Setup
+## Installation
 To install the mod make sure to save the files located in the `System` folder in the folder of the same name in your installation of Unreal Tournament.
 
 The source code of the mod is available for further modification in the `GunGame/Classes` folder.  
