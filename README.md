@@ -1,6 +1,6 @@
 # Gun Game v1.0 - Unreal Tournament 99 Game Mode
 ## Description
-A UT99 mod that adds a custom game mode based on other game's implementation of the mode.  
+A UT99 mod that adds a custom game in which you can only change weapons by getting frags.  
 It is written in UnrealScript (.uc). It is completely playable, but still requires polishing the code.
 
 ![Menu](https://images.gamebanana.com/img/ss/mods/6698847f872fc.jpg)
